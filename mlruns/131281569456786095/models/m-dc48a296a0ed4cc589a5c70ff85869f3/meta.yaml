@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Alejandro/Documents/ITESO/7mo%20semestre/Sistemas%20de%20Trading/mlruns/131281569456786095/models/m-dc48a296a0ed4cc589a5c70ff85869f3/artifacts
+creation_timestamp: 1760500138791
+experiment_id: '131281569456786095'
+last_updated_timestamp: 1760500154312
+model_id: m-dc48a296a0ed4cc589a5c70ff85869f3
+model_type: null
+name: model
+source_run_id: a15ad5e1c2864e1d9844953029503179
+status: 2
+status_message: null
